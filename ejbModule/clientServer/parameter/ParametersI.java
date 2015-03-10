@@ -9,7 +9,7 @@ public interface ParametersI {
 
 	public static final String PROJECT_ENCODING = "UTF-8";
 	
-	public static final String SERVICE_EJB = "ejb:/Projet_LEXICO_referentiel/ServiceFacadeBean!clientServer.service.ServiceI";
+	public static final String SERVICE_EJB = "ejb:/Projet_LEXICO_referentiel_v1/ServiceFacadeBean!clientServer.service.ServiceI";
 	
 	/* Debugging flags */
 	
